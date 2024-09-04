@@ -39,6 +39,16 @@
          "created_at": "2024-09-04 12:23:44.800065",
          "updated_at": "2024-09-04 14:41:39.929951",
          "id": 259645882216931523
+      },
+      {
+         "name": "Winter",
+         "description": "Warm scents",
+         "category": "Seasonal",
+         "image_url": "http:...",
+         "ingredients": "Ingredients",
+         "created_at": "2024-09-04 16:13:13.746837",
+         "updated_at": "2024-09-04 16:14:17.437051",
+         "id": 303665655416297086
       }
    ]
 }
