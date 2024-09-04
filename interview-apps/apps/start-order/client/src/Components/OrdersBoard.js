@@ -94,7 +94,7 @@ const OrdersBoard = () => {
         "id": "172196510395618224"
      }];
 
-    // Get All Orders from DB
+    // Get All Orders from DB - Issues parsing data from Response
 
     // async function getOrders() {
     //     return await fetch("http://localhost:8090/orders")

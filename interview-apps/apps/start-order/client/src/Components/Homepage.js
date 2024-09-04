@@ -3,7 +3,6 @@ import { useHistory } from "react-router-dom";
 import "../App.css";
 import { Flex, Button } from "monday-ui-react-core";
 
-// function Homepage() {
 const Homepage = () => {
     const history = useHistory();
 

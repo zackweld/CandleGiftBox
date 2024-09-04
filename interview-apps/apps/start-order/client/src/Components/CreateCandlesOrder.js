@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useEffect, useMemo } from "react";
+import { useState } from "react";
 import ".././App.css";
 import mondaySdk from "monday-sdk-js";
 import "monday-ui-react-core/dist/main.css";
@@ -12,8 +12,6 @@ import axios from "axios";
 const monday = mondaySdk();
 
 const CreateCandlesOrder = () => {
-  // const [isDisabled, setIsDisabled] = useState(true);
-  // const [count, setCount] = useState(0);
   const [selectedOptions, setSelectedOptions] = useState([])
   const options = []
   const data = [
@@ -66,7 +64,7 @@ const CreateCandlesOrder = () => {
   }
   fillDropdown()
 
-  // Get All Candles from API 
+  // Get All Candles from API - Issues trying to parse response call
 
   // async function getCandles() {
   //   return await fetch("http://localhost:8090/candles")
