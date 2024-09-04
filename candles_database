@@ -1,0 +1,44 @@
+{
+   "data": [
+      {
+         "name": "Herb Garden",
+         "description": "A refreshing fragrance that captures the essence of an aromatic herb garden.",
+         "category": "Herbaceous",
+         "image_url": "https://example.com/herb_garden.jpg",
+         "ingredients": "Mint, Parsley, Ginger, Pine",
+         "created_at": "2024-09-04 12:11:27.355236",
+         "updated_at": "2024-09-04 12:11:27.355311",
+         "id": 326057110543017294
+      },
+      {
+         "name": "Fall",
+         "description": "A crisp fragrance that captures the essence of Autumn.",
+         "category": "Seasonal",
+         "image_url": "https://example.com/fall.jpg",
+         "ingredients": "Pumpkin, Pine, Cinnamon",
+         "created_at": "2024-09-04 12:22:28.233017",
+         "updated_at": "2024-09-04 12:22:28.233051",
+         "id": 835664449552979955
+      },
+      {
+         "name": "Lavender",
+         "description": "A calming floral scent.",
+         "category": "Floral",
+         "image_url": "https://example.com/lavender.jpg",
+         "ingredients": "English lavender leaves, Flower stems",
+         "created_at": "2024-09-04 12:23:00.496667",
+         "updated_at": "2024-09-04 12:23:00.496681",
+         "id": 267347524282015785
+      },
+      {
+         "name": "Passion Fruit",
+         "description": "Juicy and sweet with notes of tart citrus and sea salt.",
+         "category": "Fruity",
+         "image_url": "https://example.com/passion-fruit.jpg",
+         "ingredients": "Pomegranate, Natural Oils",
+         "created_at": "2024-09-04 12:23:44.800065",
+         "updated_at": "2024-09-04 14:41:39.929951",
+         "id": 259645882216931523
+      }
+   ]
+}
